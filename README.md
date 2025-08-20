@@ -23,3 +23,23 @@ This is a simple Java-based Employee Management System that interacts with an Or
 2.  Create the `employee` and `department` tables with the appropriate schema.
 3.  Update the database connection URL, username, and password in the `Utility.java` file.
 4.  Run the `Main.java` file to execute the program.
+
+
+
+**OUTPUTS**
+
+---Database >>>>
+
+<img width="1440" height="900" alt="Screenshot 2025-08-20 at 8 35 32 PM" src="https://github.com/user-attachments/assets/0e1ce632-02a4-423b-b211-2798bf654550" />
+
+
+
+
+
+---Intellij >>>
+
+![WhatsApp Image 2025-08-20 at 20 48 37](https://github.com/user-attachments/assets/b65e7239-cc41-4182-9c54-1fdc3fd3c2a5)
+
+![WhatsApp Image 2025-08-20 at 20 47 59](https://github.com/user-attachments/assets/be241e2c-a13e-493f-bac5-e6a1f579478c)
+
+
